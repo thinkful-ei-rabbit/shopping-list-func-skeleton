@@ -1,3 +1,5 @@
-# Shopping List App Challenge
+## Shopping List Starter
 
-This repo contains starter files for the *Shopping List App* challenge.
+#### Created for the Thinkful EI Program.
+
+Please reference the startup instructions within your curriculum.
